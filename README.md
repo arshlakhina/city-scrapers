@@ -23,11 +23,11 @@ A lot about the City of Chicago! What is City Council talking about this week? W
 
 From building a scraper, you'll gain experience with:
 
-- how the web works (HTTP requests and responses, reading HTML)
-- writing functions and tests in Python
-- version control and collaborative coding (git and Github)
-- a basic data file format (JSON), working with a schema and data validation
-- problem-solving, finding patterns, designing robust code
+- how the web works (HTTP requests and responses, reading HTML);
+- writing functions and tests in Python;
+- version control and collaborative coding (Git and Github);
+- a basic data file format (JSON), working with a schema and data validation;
+- problem-solving, finding patterns, designing robust code;
 
 ## How can I set up City Scrapers for my area?
 
